@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ConvertidorMoneda'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A602D1ACCC5C4CF8BA3BFC01659D985C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_820480F66DE94D23BEE9598FCFD217B2 }}
           package: .
